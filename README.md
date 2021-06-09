@@ -4,7 +4,8 @@
   In our case we were interested in the missing details of our cleaned dataset like age or ethnicity. With this tool we were able to fill in missing details and export as a dataset for final use in our data analyzation. 
  ## Problems:
 One problem I ran into was network-timeout when working with larger datasets. This can be solved by running it in batches or by running it in the background. More details shared below.
+A technical problem I ran into was VS Code overwriting my work 3 times due to a unique jupyter bug.
 ## How to install:
   If you're interested in using this tool, you can simply clone or fork this repo, and run it off jupyter. I really recommend having Anaconda pre-installed.
   
-  To see an example and more details you can click on webscraper.ipynb.
+  To see an example and more details you can click [here](https://github.com/j0c3/python-webscraper/blob/master/tutorial/webscrape-actor-website.ipynb).
