@@ -1,31 +1,31 @@
-,name,imdb_name_id,dob,eth
-0,Jennifer Aniston,nm0000098,1969-02-11,"['White', 'Greek']"
-1,Fairuza Balk,nm0000103,1974-05-21,['White']
-2,Drew Barrymore,nm0000106,1975-02-22,"['White', 'Hungarian']"
-3,Nicolas Cage,nm0000115,1964-01-07,['White']
-4,Kevin Costner,nm0000126,1955-01-18,"['White', 'German', 'Irish']"
-5,Jamie Lee Curtis,nm0000130,1958-11-22,['White']
-6,Bo Derek,nm0000137,1956-11-20,['White']
-7,Leonardo DiCaprio,nm0000138,1974-11-11,-1
-8,Cameron Diaz,nm0000139,1972-08-30,"['White', 'Cuban', 'English', 'German']"
-9,Erika Eleniak,nm0000143,1969-09-29,-1
-10,Jodie Foster,nm0000149,1962-11-19,['White']
-11,Gina Gershon,nm0000153,1962-06-10,"['White', 'French', 'Russian', 'Dutch']"
-12,Tom Hanks,nm0000158,1956-07-09,['White']
-13,Teri Hatcher,nm0000159,1964-12-08,['White']
-14,Ethan Hawke,nm0000160,1970-11-06,['White']
-15,Helen Hunt,nm0000166,1963-06-15,"['White', 'Jewish']"
-16,Ashley Judd,nm0000171,1968-04-19,"['White', 'Italian']"
-17,Val Kilmer,nm0000174,1959-12-31,"['White', 'Cherokee']"
-18,Heather Locklear,nm0000181,1961-09-25,"['White', 'Scottish']"
-19,Matthew McConaughey,nm0000190,1969-11-04,['White']
-20,Bill Paxton,nm0000200,1955-05-17,['White']
-21,Michelle Pfeiffer,nm0000201,1958-04-29,['White']
-22,Tim Robbins,nm0000209,1958-10-16,['White']
-23,Joan Severance,nm0000220,1958-12-23,['White']
-24,Alicia Silverstone,nm0000224,1976-10-04,['White']
-25,Jennifer Tilly,nm0000236,1958-09-16,"['Multiracial', 'Chinese']"
-26,Renée Zellweger,nm0000250,1969-04-25,-1
-27,Ben Affleck,nm0000255,1972-08-15,"['White', 'Irish', 'Scottish']"
-28,Sean Astin,nm0000276,1971-02-25,['White']
-29,Michelle Bauer,nm0000292,1958-10-01,['White']
+,name,imdb_name_id,dob,pob,clean_eth
+0,Jennifer Aniston,nm0000098,1969-02-11,"Sherman Oaks, California, USA","['White', 'Greek']"
+1,Fairuza Balk,nm0000103,1974-05-21,"Point Reyes, California, USA",['White']
+2,Drew Barrymore,nm0000106,1975-02-22,"Culver City, California, USA","['White', 'Hungarian']"
+3,Nicolas Cage,nm0000115,1964-01-07,"Long Beach, California, USA",['White']
+4,Kevin Costner,nm0000126,1955-01-18,"Lynwood, California, USA","['White', 'German', 'Irish']"
+5,Jamie Lee Curtis,nm0000130,1958-11-22,"Los Angeles, California, USA",['White']
+6,Bo Derek,nm0000137,1956-11-20,"Long Beach, California, USA",['White']
+7,Leonardo DiCaprio,nm0000138,1974-11-11,"Hollywood, Los Angeles, California, USA",-1
+8,Cameron Diaz,nm0000139,1972-08-30,"San Diego, California, USA","['White', 'Cuban', 'English', 'German']"
+9,Erika Eleniak,nm0000143,1969-09-29,"Glendale, California, USA",-1
+10,Jodie Foster,nm0000149,1962-11-19,"Los Angeles, California, USA",['White']
+11,Gina Gershon,nm0000153,1962-06-10,"Los Angeles, California, USA","['White', 'French', 'Russian', 'Dutch']"
+12,Tom Hanks,nm0000158,1956-07-09,"Concord, California, USA",['White']
+13,Teri Hatcher,nm0000159,1964-12-08,"Palo Alto, California, USA",['White']
+14,Ethan Hawke,nm0000160,1970-11-06,"Austin, Texas, USA",['White']
+15,Helen Hunt,nm0000166,1963-06-15,"Culver City, California, USA","['White', 'Jewish']"
+16,Ashley Judd,nm0000171,1968-04-19,"Granada Hills, California, USA","['White', 'Italian']"
+17,Val Kilmer,nm0000174,1959-12-31,"Los Angeles, California, USA","['White', 'Cherokee']"
+18,Heather Locklear,nm0000181,1961-09-25,"Westwood, California, USA","['White', 'Scottish']"
+19,Matthew McConaughey,nm0000190,1969-11-04,"Uvalde, Texas, USA",['White']
+20,Bill Paxton,nm0000200,1955-05-17,"Fort Worth, Texas, USA",['White']
+21,Michelle Pfeiffer,nm0000201,1958-04-29,"Santa Ana, California, USA",['White']
+22,Tim Robbins,nm0000209,1958-10-16,"West Covina, California, USA",['White']
+23,Joan Severance,nm0000220,1958-12-23,"Houston, Texas, USA",['White']
+24,Alicia Silverstone,nm0000224,1976-10-04,"San Francisco, California, USA",['White']
+25,Jennifer Tilly,nm0000236,1958-09-16,"Harbor City, California, USA","['Multiracial', 'Chinese']"
+26,Renée Zellweger,nm0000250,1969-04-25,"Katy, Texas, USA",-1
+27,Ben Affleck,nm0000255,1972-08-15,"Berkeley, California, USA","['White', 'Irish', 'Scottish']"
+28,Sean Astin,nm0000276,1971-02-25,"Santa Monica, California, USA",['White']
+29,Michelle Bauer,nm0000292,1958-10-01,"Montebello, California, USA",['White']
